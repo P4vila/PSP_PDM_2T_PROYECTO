@@ -147,5 +147,3 @@ José Manuel Piñero - jpa0023@alu.medac.es
 
 Luciana Perez - lpm0025@alu.medac.es
 
-Project Link: https://github.com/P4vila/QuizzHub
-
